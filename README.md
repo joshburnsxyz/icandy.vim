@@ -3,7 +3,7 @@ Custom vim theme thats nice on the eyes
 
 ## Screenshots
 
-> Coming Soon....
+![Screenshot](https://raw.githubusercontent.com/joshburnsxyz/icandy.vim/main/screenshot.png)
 
 ## Installation
 
